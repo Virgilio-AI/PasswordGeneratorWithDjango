@@ -2,3 +2,7 @@
 passwordGenerator/__pycache__
 env/
 __pycache__/
+
+venv
+viron/bin
+viron
